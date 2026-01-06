@@ -1,0 +1,12 @@
+{
+  // 禁用编辑器数量限制，允许打开多个文件
+  "workbench.editor.limit.enabled": false,
+  
+  // 或者设置一个较大的限制值（例如 20）
+  // "workbench.editor.limit.value": 20,
+  
+  // 其他有用的编辑器设置
+  "workbench.editor.enablePreview": false,  // 禁用预览模式，新打开的文件直接固定
+  "workbench.editor.enablePreviewFromQuickOpen": false  // 从快速打开禁用预览
+}
+
